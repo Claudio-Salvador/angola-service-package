@@ -1,0 +1,116 @@
+{
+  "times": [
+    {
+      "id": 1,
+      "nome": "1º de Agosto",
+      "cidade": "Luanda",
+      "fundacao": 1977,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 2,
+      "nome": "Académica do Lobito",
+      "cidade": "Lobito",
+      "fundacao": 1970,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 3,
+      "nome": "Carmona SC",
+      "cidade": "Uíge",
+      "fundacao": 2021,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 4,
+      "nome": "CD São Salvador",
+      "cidade": "Mbanza Kongo",
+      "fundacao": 2001,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 5,
+      "nome": "Desportivo da Huíla",
+      "cidade": "Lubango",
+      "fundacao": 1998,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 6,
+      "nome": "Desportivo Lunda Sul",
+      "cidade": "Lunda Sul",
+      "fundacao": 2020,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 7,
+      "nome": "Interclube de Angola",
+      "cidade": "Luanda",
+      "fundacao": 1976,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 8,
+      "nome": "Isaac de Benguela",
+      "cidade": "Benguela",
+      "fundacao": 2020,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 9,
+      "nome": "Kabuscorp",
+      "cidade": "Luanda",
+      "fundacao": 1994,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 10,
+      "nome": "Luanda City",
+      "cidade": "Luanda",
+      "fundacao": 2022,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 11,
+      "nome": "Onze Bravos",
+      "cidade": "Luena",
+      "fundacao": 1983,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 12,
+      "nome": "Petro de Luanda",
+      "cidade": "Luanda",
+      "fundacao": 1980,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 13,
+      "nome": "Recreativo do Libolo",
+      "cidade": "Libolo",
+      "fundacao": 1942,
+      "estadio": "Estádio Municipal do Libolo"
+    },
+    {
+      "id": 14,
+      "nome": "Sagrada Esperança",
+      "cidade": "Dundo",
+      "fundacao": 1976,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 15,
+      "nome": "Santa Rita de Cássia",
+      "cidade": "Uíge",
+      "fundacao": 2015,
+      "estadio": "Informação não disponível"
+    },
+    {
+      "id": 16,
+      "nome": "Wiliete",
+      "cidade": "Benguela",
+      "fundacao": 2018,
+      "estadio": "Informação não disponível"
+    }
+  ]
+}

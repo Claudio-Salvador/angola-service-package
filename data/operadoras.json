@@ -1,0 +1,33 @@
+{
+    "operadoras": [
+        {
+            "id": 1,
+            "nome": "Unitel",
+            "prefixos": [
+                "92",
+                "93",
+                "94",
+                "97"
+            ],
+            "website": "http://www.unitel.ao/"
+        },
+        {
+            "id": 2,
+            "nome": "Movicel",
+            "prefixos": [
+                "91",
+                "99"
+            ],
+            "website": "http://www.movicel.co.ao/"
+        },
+        {
+            "id": 3,
+            "nome": "Africell",
+            "prefixos": [
+                "94",
+                "95"
+            ],
+            "website": "http://www.africell.ao/"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "hospitais": [
+        {
+            "id": 1,
+            "nome": "Hospital Josina Machel",
+            "tipo": "Público",
+            "cidade": "Luanda",
+            "endereco": "Largo Antonio Jacinto",
+            "telefone": "222-334-457"
+        },
+        {
+            "id": 2,
+            "nome": "Clínica Girassol",
+            "tipo": "Privado",
+            "cidade": "Luanda",
+            "endereco": "Avenida Comandante Gika",
+            "telefone": "222-680-000"
+        },
+        {
+            "id": 3,
+            "nome": "Hospital Militar Principal",
+            "tipo": "Público",
+            "cidade": "Luanda",
+            "endereco": "Rua Amilcar Cabral",
+            "telefone": "222-334-123"
+        },
+        {
+            "id": 4,
+            "nome": "Clínica Sagrada Esperança",
+            "tipo": "Privado",
+            "cidade": "Luanda",
+            "endereco": "Avenida Murtala Mohamed",
+            "telefone": "222-309-000"
+        },
+        {
+            "id": 5,
+            "nome": "Hospital Provincial de Benguela",
+            "tipo": "Público",
+            "cidade": "Benguela",
+            "endereco": "Rua Aires de Almeida Santos",
+            "telefone": "272-232-345"
+        },
+        {
+            "id": 6,
+            "nome": "Clínica Multiperfil",
+            "tipo": "Privado",
+            "cidade": "Luanda",
+            "endereco": "Rua Rei Katyavala",
+            "telefone": "222-334-567"
+        },
+        {
+            "id": 7,
+            "nome": "Hospital Geral de Cabinda",
+            "tipo": "Público",
+            "cidade": "Cabinda",
+            "endereco": "Rua do Comércio",
+            "telefone": "231-222-123"
+        },
+        {
+            "id": 8,
+            "nome": "Clínica Talatona",
+            "tipo": "Privado",
+            "cidade": "Luanda",
+            "endereco": "Via Expresso",
+            "telefone": "222-680-100"
+        },
+        {
+            "id": 9,
+            "nome": "Hospital Provincial de Huambo",
+            "tipo": "Público",
+            "cidade": "Huambo",
+            "endereco": "Avenida da Independência",
+            "telefone": "241-220-456"
+        },
+        {
+            "id": 10,
+            "nome": "Clínica Internacional SOS",
+            "tipo": "Privado",
+            "cidade": "Luanda",
+            "endereco": "Rua Marechal Brós Tito",
+            "telefone": "222-335-000"
+        }
+    ]
+}

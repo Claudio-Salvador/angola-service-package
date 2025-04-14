@@ -1,0 +1,144 @@
+{
+    "bancos": [
+        {
+            "id": 1,
+            "nome": "Banco Angolano de Investimentos",
+            "sigla": "BAI",
+            "swift": "BAIPAOLU",
+            "website": "www.bancobai.ao"
+        },
+        {
+            "id": 2,
+            "nome": "Banco de Comércio e Indústria",
+            "sigla": "BCI",
+            "swift": "BCIAOLU",
+            "website": "www.bci.ao"
+        },
+        {
+            "id": 3,
+            "nome": "Banco da China Limitada - Sucursal em Luanda",
+            "sigla": "BOC",
+            "swift": "BOCAOLU",
+            "website": "www.boc.ao"
+        },
+        {
+            "id": 4,
+            "nome": "Banco Económico",
+            "sigla": "BE",
+            "swift": "BECAOLU",
+            "website": "www.bancoeconomico.ao"
+        },
+        {
+            "id": 5,
+            "nome": "Banco de Negócios Internacional",
+            "sigla": "BNI",
+            "swift": "BNIAOLU",
+            "website": "www.bni.ao"
+        },
+        {
+            "id": 6,
+            "nome": "Banco BIC",
+            "sigla": "BIC",
+            "swift": "BICAOLU",
+            "website": "www.bancobic.ao"
+        },
+        {
+            "id": 7,
+            "nome": "Banco Comercial Angolano",
+            "sigla": "BCA",
+            "swift": "BCCAOLU",
+            "website": "www.bca.co.ao"
+        },
+        {
+            "id": 8,
+            "nome": "Banco Comercial do Huambo",
+            "sigla": "BCH",
+            "swift": "BCHAOLU",
+            "website": "www.bch.ao"
+        },
+        {
+            "id": 9,
+            "nome": "Banco de Desenvolvimento de Angola",
+            "sigla": "BDA",
+            "swift": "BDAAOLU",
+            "website": "www.bda.ao"
+        },
+        {
+            "id": 10,
+            "nome": "Banco de Fomento Angola",
+            "sigla": "BFA",
+            "swift": "BFAAOLU",
+            "website": "www.bfa.ao"
+        },
+        {
+            "id": 11,
+            "nome": "Banco de Investimento Rural",
+            "sigla": "BIR",
+            "swift": "BIRAOLU",
+            "website": "www.bir.ao"
+        },
+        {
+            "id": 12,
+            "nome": "Banco de Poupança e Crédito",
+            "sigla": "BPC",
+            "swift": "BPCAOLU",
+            "website": "www.bpc.ao"
+        },
+        {
+            "id": 13,
+            "nome": "Banco Millenium Atlântico",
+            "sigla": "BMA",
+            "swift": "BMAAOLU",
+            "website": "www.atlantico.ao"
+        },
+        {
+            "id": 14,
+            "nome": "Banco Keve",
+            "sigla": "BK",
+            "swift": "BKVAOLU",
+            "website": "www.bancokeve.ao"
+        },
+        {
+            "id": 15,
+            "nome": "Banco Valor",
+            "sigla": "BV",
+            "swift": "BVAAOLU",
+            "website": "www.bancovalor.ao"
+        },
+        {
+            "id": 16,
+            "nome": "Banco Sol",
+            "sigla": "BS",
+            "swift": "BSOLAOLU",
+            "website": "www.bancosol.ao"
+        },
+        {
+            "id": 17,
+            "nome": "Standard Chartered",
+            "sigla": "SC",
+            "swift": "SCBLAOLU",
+            "website": "www.sc.com/ao"
+        },
+        {
+            "id": 18,
+            "nome": "Banco de Crédito do Sul",
+            "sigla": "BCS",
+            "swift": "BCSAOLU",
+            "website": "www.bcs.ao"
+        },
+        {
+            "id": 19,
+            "nome": "Banco Yetu",
+            "sigla": "BY",
+            "swift": "BYETAOLU",
+            "website": "www.bancoyetu.ao"
+        },
+        {
+            "id": 20,
+            "nome": "VTB África",
+            "sigla": "VTB",
+            "swift": "VTBZAOLU",
+            "website": "www.vtb.ao"
+        }
+    ]
+}

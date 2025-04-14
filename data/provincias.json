@@ -1,0 +1,362 @@
+{
+    "provincias": [
+        {
+            "id": 1,
+            "nome": "Bengo",
+            "capital": "Caxito",
+            "area": 31371,
+            "populacao": 537954,
+            "municipios": [
+                "Ambriz",
+                "Bula Atumba",
+                "Dande",
+                "Nambuangongo",
+                "Dembos"
+            ]
+        },
+        {
+            "id": 2,
+            "nome": "Benguela",
+            "capital": "Benguela",
+            "area": 39826,
+            "populacao": 3369045,
+            "municipios": [
+                "Benguela",
+                "Baía Farta",
+                "Lobito",
+                "Caimbambo",
+                "Catumbela",
+                "Ganda",
+                "Cubal",
+                "Chongoroi",
+                "Bocoio",
+                "Balombo"
+            ]
+        },
+        {
+            "id": 3,
+            "nome": "Bié",
+            "capital": "Cuíto",
+            "area": 70314,
+            "populacao": 2163873,
+            "municipios": [
+                "Andulo",
+                "Camacupa",
+                "Catabola",
+                "Chinguar",
+                "Chitembo",
+                "Cuemba",
+                "Cunhinga",
+                "Cuíto",
+                "Nharea"
+            ]
+        },
+        {
+            "id": 4,
+            "nome": "Cabinda",
+            "capital": "Cabinda",
+            "area": 7270,
+            "populacao": 1048249,
+            "municipios": [
+                "Belize",
+                "Buco-Zau",
+                "Cabinda",
+                "Cacongo"
+            ]
+        },
+        {
+            "id": 5,
+            "nome": "Cuando",
+            "capital": "Mavinga",
+            "area": 36600,
+            "populacao": 148500,
+            "municipios": [
+                "Cuito Cuanavale",
+                "Mavinga",
+                "Rivungo"
+            ]
+        },
+        {
+            "id": 6,
+            "nome": "Cubango",
+            "capital": "Menongue",
+            "area": 162400,
+            "populacao": 657000,
+            "municipios": [
+                "Menongue",
+                "Cuchi",
+                "Cuangar",
+                "Nancova",
+                "Calai"
+            ]
+        },
+        {
+            "id": 7,
+            "nome": "Cuanza Norte",
+            "capital": "Ndalatando",
+            "area": 24110,
+            "populacao": 667853,
+            "municipios": [
+                "Ambaca",
+                "Banga",
+                "Bolongongo",
+                "Cazengo",
+                "Cambambe",
+                "Golungo Alto",
+                "Ngonguembo",
+                "Lucala",
+                "Quiculungo",
+                "Samba Caju"
+            ]
+        },
+        {
+            "id": 8,
+            "nome": "Cuanza Sul",
+            "capital": "Sumbe",
+            "area": 55360,
+            "populacao": 2709717,
+            "municipios": [
+                "Amboim",
+                "Cassongue",
+                "Cela",
+                "Conda",
+                "Ebo",
+                "Libolo",
+                "Mussende",
+                "Porto Amboim",
+                "Quibala",
+                "Quilenda",
+                "Seles",
+                "Sumbe"
+            ]
+        },
+        {
+            "id": 9,
+            "nome": "Cunene",
+            "capital": "Ondjiva",
+            "area": 78524,
+            "populacao": 1497805,
+            "municipios": [
+                "Cahama",
+                "Cuanhama",
+                "Curoca",
+                "Cuvelai",
+                "Namacunde",
+                "Ombadja"
+            ]
+        },
+        {
+            "id": 10,
+            "nome": "Huambo",
+            "capital": "Huambo",
+            "area": 34270,
+            "populacao": 3053707,
+            "municipios": [
+                "Bailundo",
+                "Cachiungo",
+                "Caála",
+                "Ecunha",
+                "Huambo",
+                "Londuimbali",
+                "Longonjo",
+                "Mungo",
+                "Chicala-Choloanga",
+                "Chinjenje",
+                "Ucuma"
+            ]
+        },
+        {
+            "id": 11,
+            "nome": "Huíla",
+            "capital": "Lubango",
+            "area": 79023,
+            "populacao": 4116958,
+            "municipios": [
+                "Caconda",
+                "Cacula",
+                "Caluquembe",
+                "Chiange",
+                "Chibia",
+                "Chicomba",
+                "Chipindo",
+                "Cuvango",
+                "Humpata",
+                "Jamba",
+                "Lubango",
+                "Matala",
+                "Quilengues",
+                "Quipungo"
+            ]
+        },
+        {
+            "id": 12,
+            "nome": "Icolo e Bengo",
+            "capital": "Catete",
+            "area": 16959,
+            "populacao": 324844,
+            "municipios": [
+                "Bom Jesus",
+                "Cabiri",
+                "Cabo Ledo",
+                "Calumbo",
+                "Catete",
+                "Quiçama",
+                "Sequele"
+            ]
+        },
+        {
+            "id": 13,
+            "nome": "Luanda",
+            "capital": "Luanda",
+            "area": 2417,
+            "populacao": 10309160,
+            "municipios": [
+                "Belas",
+                "Cacuaco",
+                "Cazenga",
+                "Ingombota",
+                "Kilamba Kiaxi",
+                "Maianga",
+                "Rangel",
+                "Samba",
+                "Sambizanga",
+                "Talatona",
+                "Viana"
+            ]
+        },
+        {
+            "id": 14,
+            "nome": "Lunda Norte",
+            "capital": "Dundo",
+            "area": 103760,
+            "populacao": 1302416,
+            "municipios": [
+                "Cambulo",
+                "Capenda Camulemba",
+                "Caungula",
+                "Chitato",
+                "Cuango",
+                "Cuílo",
+                "Lóvua",
+                "Lucapa",
+                "Xá Muteba"
+            ]
+        },
+        {
+            "id": 15,
+            "nome": "Lunda Sul",
+            "capital": "Saurimo",
+            "area": 77683,
+            "populacao": 810429,
+            "municipios": [
+                "Cacolo",
+                "Dala",
+                "Muconda",
+                "Saurimo"
+            ]
+        },
+        {
+            "id": 16,
+            "nome": "Malanje",
+            "capital": "Malanje",
+            "area": 97602,
+            "populacao": 1480845,
+            "municipios": [
+                "Cacuso",
+                "Calandula",
+                "Cambundi-Catembo",
+                "Cangandala",
+                "Caombo",
+                "Cuaba Nzogo",
+                "Cunda-Dia-Baze",
+                "Luquembo",
+                "Malanje",
+                "Marimba",
+                "Massango",
+                "Mucari",
+                "Quela",
+                "Quirima"
+            ]
+        },
+        {
+            "id": 17,
+            "nome": "Moxico",
+            "capital": "Luena",
+            "area": 149882,
+            "populacao": 665070,
+            "municipios": [
+                "Alto Zambeze",
+                "Camanongue",
+                "Léua",
+                "Luacano",
+                "Luena",
+                "Lumeje"
+            ]
+        },
+        {
+            "id": 18,
+            "nome": "Moxico Leste",
+            "capital": "Cazombo",
+            "area": 73141,
+            "populacao": 480998,
+            "municipios": [
+                "Bundas",
+                "Cazombo",
+                "Luau",
+                "Moxico"
+            ]
+        },
+        {
+            "id": 19,
+            "nome": "Namibe",
+            "capital": "Moçâmedes",
+            "area": 57066,
+            "populacao": 749792,
+            "municipios": [
+                "Bibala",
+                "Camucuio",
+                "Moçâmedes",
+                "Tômbua",
+                "Virei"
+            ]
+        },
+        {
+            "id": 20,
+            "nome": "Uíge",
+            "capital": "Uíge",
+            "area": 58698,
+            "populacao": 2239878,
+            "municipios": [
+                "Ambuila",
+                "Bembe",
+                "Buengas",
+                "Bungo",
+                "Damba",
+                "Mucaba",
+                "Negage",
+                "Puri",
+                "Quimbele",
+                "Quitexe",
+                "Sanza Pombo",
+                "Songo",
+                "Uíge",
+                "Zombo"
+            ]
+        },
+        {
+            "id": 21,
+            "nome": "Zaire",
+            "capital": "Mbanza Congo",
+            "area": 40130,
+            "populacao": 904229,
+            "municipios": [
+                "Cuimba",
+                "Mbanza Congo",
+                "Noqui",
+                "Nzeto",
+                "Soyo",
+                "Tomboco"
+            ]
+        }
+    ]
+}

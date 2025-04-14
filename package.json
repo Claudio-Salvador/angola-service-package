@@ -1,0 +1,23 @@
+{
+  "name": "angola-service-package",
+  "version": "1.0.0",
+  "description": "Package containing Angolan services data",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "angola",
+    "services",
+    "data"
+  ],
+  "author": "Cláudio Fernando",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.26.10",
+    "@babel/preset-env": "^7.26.9",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
