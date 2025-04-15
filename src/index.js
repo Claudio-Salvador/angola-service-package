@@ -1,7 +1,7 @@
 import { readFile } from 'fs/promises';
 import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
-import formatarKwanza from '../util/formatcoin';
+import formatarKwanza from '../util/formatcoin.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -10,7 +10,7 @@ const loadJson = async (path) => {
     return JSON.parse(data);
 };
 
-const angola = async () => {
+const angolaService = async () => {
     const provincias = await loadJson(join(__dirname, '../data/provincias.json'));
     const operadoras = await loadJson(join(__dirname, '../data/operadoras.json'));
     const bancos = await loadJson(join(__dirname, '../data/bancos.json'));
@@ -23,11 +23,12 @@ const angola = async () => {
         bancos: bancos.bancos,
         times: times.times,
         hospitais: hospitais.hospitais,
-        formatarKwanza,
+        formatarKwanza: (valor) => formatarKwanza(valor),
+
     };
 };
 
-export default angola;
+export default angolaService;
 
 
 

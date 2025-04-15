@@ -22,18 +22,24 @@ npm install angola-service-package
 ## Usage
 
 ```
-import angola from 'angola-service-package';
+import angolaService from 'angola-service-package';
 // Get all data
-const data = await angola();
+const data = await angolaService();
 
 // Access specific data
-const { provincias, operadoras, bancos, times, hospitais } = await angola();
+(async () => {
+    const { provincias, operadoras, bancos, times, hospitais } = await angolaService();
+
+    console.log(provincias);
+})();
+
+
 
 ```
 ### Provinces Data
 
 ```
-const { provincias } = await angola();
+const { provincias } = await angolaService();
 
 // Get all provinces
 console.log(provincias);
@@ -43,7 +49,7 @@ const luanda = provincias.find(p => p.nome === 'Luanda');
 ```
 ### Mobile Operators
 
-```const { operadoras } = await angola();
+```const { operadoras } = await angolaService();
 // Get all operators
 console.log(operadoras);
 
@@ -54,7 +60,7 @@ const unitel = operadoras.find(op => op.prefixos.includes('99'));`
 ### Banks
 
 ```
-const { bancos } = await angola();
+const { bancos } = await angolaService();
 
 // Get all banks
 console.log(bancos);
@@ -66,7 +72,7 @@ const bai = bancos.find(b => b.swift === 'BAIPAOLU');
 ### Sports Teams
 
 ```
-const { times } = await angola();
+const { times } = await angolaService();
 
 // Get all teams
 console.log(times);
@@ -77,7 +83,7 @@ const luandaTeams = times.filter(t => t.cidade === 'Luanda');
 ```
 ### Hospitals
 ```
-const { hospitais } = await angola();
+const { hospitais } = await angolaService();
 
 // Get all hospitals
 console.log(hospitais);
@@ -90,9 +96,10 @@ const publicHospitals = hospitais.filter(h => h.tipo === 'Público');
 ### Currency Formatter
 
 ```
-import { formatCurrency } from 'angola-service-package';
+const { formatarKwanza } = await angolaService();;
 // Format currency
 console.log(formatarKwanza(1000)); // Output: 1.000,00 Kz
+
 ```
 
 # Data Structure
