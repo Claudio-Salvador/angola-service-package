@@ -1,6 +1,6 @@
 {
   "name": "angola-service-package",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Package containing Angolan services data",
   "main": "src/index.js",
   "type": "module",
