@@ -12,6 +12,7 @@ A comprehensive package containing essential data about various services and inf
 - **Sports Teams**: Main football teams
 - **Hospitals**: Healthcare facilities across the country
 - **Currency Formatter**: Utility to format values in Kwanza (AOA)
+- **Countries**: list of countries with details about , continent,capital ,region, subregion, languages, etc.
 
 ## Installation
 
@@ -28,7 +29,7 @@ const data = await angolaService();
 
 // Access specific data
 (async () => {
-    const { provincias, operadoras, bancos, times, hospitais } = await angolaService();
+    const { provincias, operadoras, bancos, times, hospitais,continentes } = await angolaService();
 
     console.log(provincias);
 })();
@@ -101,6 +102,18 @@ const { formatarKwanza } = await angolaService();;
 console.log(formatarKwanza(1000)); // Output: 1.000,00 Kz
 
 ```
+### Continents, contries and other data
+
+```
+const { continentes,africa,europa,asia,america,oceania } = await angolaService();;
+// Get all continents joined with all contries
+console.log(continentes);
+
+// Filter by individual continent join with all contries 
+console.log(africa);
+const AfricaContries = africa.filter(item => item.paises.Nome === 'angola');
+
+```
 
 # Data Structure
 ## Provinces (provincias.json)
@@ -157,6 +170,32 @@ console.log(formatarKwanza(1000)); // Output: 1.000,00 Kz
   cidade: String,
   endereco: String,
   especialidades: Array
+}
+```
+	
+## Continents (paises-code.json)
+```
+{
+  "africa":{
+    "quantidade": int,
+    "dimensao_km2": int,
+    "populacao_total": int,
+    "densidade_demografica": int,
+    "maior_pais": string,
+    "menor_pais": string,
+    "idiomas_mais_falados":Array,
+    "moedas_utilizadas": Array,
+    "paises": [
+      {
+        "Nome": string,
+        "Sigla":string,
+        "indicativo": string,
+        "Capital": string,
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/<data>.png"
+      }
+    ]
+  },
+ ...
 }
 ```
 	

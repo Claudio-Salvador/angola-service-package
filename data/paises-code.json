@@ -1,0 +1,1566 @@
+{
+  "africa": {
+    "quantidade": 54,
+    "dimensao_km2": 30370000,
+    "populacao_total": 1400000000,
+    "densidade_demografica": 46,
+    "maior_pais": "Argélia",
+    "menor_pais": "Seicheles",
+    "idiomas_mais_falados": [
+      "Árabe",
+      "Inglês",
+      "Francês",
+      "Suaíli",
+      "Hauçá",
+      "Amárico"
+    ],
+    "moedas_utilizadas": [
+      "Franco CFA BCEAO",
+      "Franco CFA BEAC",
+      "Rande sul-africano",
+      "Naira nigeriana",
+      "Xelim queniano",
+      "Dirham marroquino",
+      "Libra egípcia",
+      "Franco ruandês",
+      "Franco burundiano",
+      "Dólar namibiano",
+      "Metical moçambicano",
+      "Cedi ganês",
+      "Dalasi gambiano",
+      "Dobra são-tomense",
+      "Franco congolês",
+      "Pula botsuanês"
+    ],
+    "paises": [
+      {
+        "Nome": "África do Sul",
+        "Sigla": "ZA",
+        "indicativo": "+27",
+        "Capital": "Pretória",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/za.png"
+      },
+      {
+        "Nome": "Angola",
+        "Sigla": "AO",
+        "indicativo": "+244",
+        "Capital": "Luanda",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ao.png"
+      },
+      {
+        "Nome": "Argélia",
+        "Sigla": "DZ",
+        "indicativo": "+213",
+        "Capital": "Argel",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/dz.png"
+      },
+      {
+        "Nome": "Benin",
+        "Sigla": "BJ",
+        "indicativo": "+229",
+        "Capital": "Porto-Novo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bj.png"
+      },
+      {
+        "Nome": "Botsuana",
+        "Sigla": "BW",
+        "indicativo": "+267",
+        "Capital": "Gaborone",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bw.png"
+      },
+      {
+        "Nome": "Burkina Faso",
+        "Sigla": "BF",
+        "indicativo": "+226",
+        "Capital": "Ouagadougou",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bf.png"
+      },
+      {
+        "Nome": "Burundi",
+        "Sigla": "BI",
+        "indicativo": "+257",
+        "Capital": "Gitega",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bi.png"
+      },
+      {
+        "Nome": "Cabo Verde",
+        "Sigla": "CV",
+        "indicativo": "+238",
+        "Capital": "Praia",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cv.png"
+      },
+      {
+        "Nome": "Camarões",
+        "Sigla": "CM",
+        "indicativo": "+237",
+        "Capital": "Yaoundé",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cm.png"
+      },
+      {
+        "Nome": "Chade",
+        "Sigla": "TD",
+        "indicativo": "+235",
+        "Capital": "N'Djamena",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/td.png"
+      },
+      {
+        "Nome": "Comores",
+        "Sigla": "KM",
+        "indicativo": "+269",
+        "Capital": "Moroni",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/km.png"
+      },
+      {
+        "Nome": "Congo (Rep. Dem.)",
+        "Sigla": "CD",
+        "indicativo": "+243",
+        "Capital": "Kinshasa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cd.png"
+      },
+      {
+        "Nome": "Congo (Rep.)",
+        "Sigla": "CG",
+        "indicativo": "+242",
+        "Capital": "Brazzaville",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cg.png"
+      },
+      {
+        "Nome": "Costa do Marfim",
+        "Sigla": "CI",
+        "indicativo": "+225",
+        "Capital": "Yamoussoukro",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ci.png"
+      },
+      {
+        "Nome": "Djibouti",
+        "Sigla": "DJ",
+        "indicativo": "+253",
+        "Capital": "Djibouti",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/dj.png"
+      },
+      {
+        "Nome": "Egito",
+        "Sigla": "EG",
+        "indicativo": "+20",
+        "Capital": "Cairo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/eg.png"
+      },
+      {
+        "Nome": "Eritreia",
+        "Sigla": "ER",
+        "indicativo": "+291",
+        "Capital": "Asmara",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/er.png"
+      },
+      {
+        "Nome": "Eswatini",
+        "Sigla": "SZ",
+        "indicativo": "+268",
+        "Capital": "Mbabane",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sz.png"
+      },
+      {
+        "Nome": "Etiópia",
+        "Sigla": "ET",
+        "indicativo": "+251",
+        "Capital": "Adis Abeba",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/et.png"
+      },
+      {
+        "Nome": "Gabão",
+        "Sigla": "GA",
+        "indicativo": "+241",
+        "Capital": "Libreville",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ga.png"
+      },
+      {
+        "Nome": "Gâmbia",
+        "Sigla": "GM",
+        "indicativo": "+220",
+        "Capital": "Banjul",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gm.png"
+      },
+      {
+        "Nome": "Gana",
+        "Sigla": "GH",
+        "indicativo": "+233",
+        "Capital": "Acra",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gh.png"
+      },
+      {
+        "Nome": "Guiné",
+        "Sigla": "GN",
+        "indicativo": "+224",
+        "Capital": "Conacri",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gn.png"
+      },
+      {
+        "Nome": "Guiné-Bissau",
+        "Sigla": "GW",
+        "indicativo": "+245",
+        "Capital": "Bissau",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gw.png"
+      },
+      {
+        "Nome": "Guiné Equatorial",
+        "Sigla": "GQ",
+        "indicativo": "+240",
+        "Capital": "Malabo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gq.png"
+      },
+      {
+        "Nome": "Quênia",
+        "Sigla": "KE",
+        "indicativo": "+254",
+        "Capital": "Nairóbi",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ke.png"
+      },
+      {
+        "Nome": "Lesoto",
+        "Sigla": "LS",
+        "indicativo": "+266",
+        "Capital": "Maseru",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ls.png"
+      },
+      {
+        "Nome": "Libéria",
+        "Sigla": "LR",
+        "indicativo": "+231",
+        "Capital": "Monróvia",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lr.png"
+      },
+      {
+        "Nome": "Líbia",
+        "Sigla": "LY",
+        "indicativo": "+218",
+        "Capital": "Trípoli",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ly.png"
+      },
+      {
+        "Nome": "Madagáscar",
+        "Sigla": "MG",
+        "indicativo": "+261",
+        "Capital": "Antananarivo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mg.png"
+      },
+      {
+        "Nome": "Malawi",
+        "Sigla": "MW",
+        "indicativo": "+265",
+        "Capital": "Lilongwe",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mw.png"
+      },
+      {
+        "Nome": "Mali",
+        "Sigla": "ML",
+        "indicativo": "+223",
+        "Capital": "Bamako",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ml.png"
+      },
+      {
+        "Nome": "Marrocos",
+        "Sigla": "MA",
+        "indicativo": "+212",
+        "Capital": "Rabat",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ma.png"
+      },
+      {
+        "Nome": "Maurícia",
+        "Sigla": "MU",
+        "indicativo": "+230",
+        "Capital": "Port Louis",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mu.png"
+      },
+      {
+        "Nome": "Mauritânia",
+        "Sigla": "MR",
+        "indicativo": "+222",
+        "Capital": "Nouakchott",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mr.png"
+      },
+      {
+        "Nome": "Moçambique",
+        "Sigla": "MZ",
+        "indicativo": "+258",
+        "Capital": "Maputo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mz.png"
+      },
+      {
+        "Nome": "Namíbia",
+        "Sigla": "NA",
+        "indicativo": "+264",
+        "Capital": "Windhoek",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/na.png"
+      },
+      {
+        "Nome": "Níger",
+        "Sigla": "NE",
+        "indicativo": "+227",
+        "Capital": "Niamey",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ne.png"
+      },
+      {
+        "Nome": "Nigéria",
+        "Sigla": "NG",
+        "indicativo": "+234",
+        "Capital": "Abuja",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ng.png"
+      },
+      {
+        "Nome": "República Centro-Africana",
+        "Sigla": "CF",
+        "indicativo": "+236",
+        "Capital": "Bangui",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cf.png"
+      },
+      {
+        "Nome": "Ruanda",
+        "Sigla": "RW",
+        "indicativo": "+250",
+        "Capital": "Kigali",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/rw.png"
+      },
+      {
+        "Nome": "São Tomé e Príncipe",
+        "Sigla": "ST",
+        "indicativo": "+239",
+        "Capital": "São Tomé",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/st.png"
+      },
+      {
+        "Nome": "Senegal",
+        "Sigla": "SN",
+        "indicativo": "+221",
+        "Capital": "Dakar",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sn.png"
+      },
+      {
+        "Nome": "Serra Leoa",
+        "Sigla": "SL",
+        "indicativo": "+232",
+        "Capital": "Freetown",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sl.png"
+      },
+      {
+        "Nome": "Seychelles",
+        "Sigla": "SC",
+        "indicativo": "+248",
+        "Capital": "Victoria",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sc.png"
+      },
+      {
+        "Nome": "Somália",
+        "Sigla": "SO",
+        "indicativo": "+252",
+        "Capital": "Mogadíscio",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/so.png"
+      },
+      {
+        "Nome": "Sudão",
+        "Sigla": "SD",
+        "indicativo": "+249",
+        "Capital": "Cartum",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sd.png"
+      },
+      {
+        "Nome": "Sudão do Sul",
+        "Sigla": "SS",
+        "indicativo": "+211",
+        "Capital": "Juba",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ss.png"
+      },
+      {
+        "Nome": "Tanzânia",
+        "Sigla": "TZ",
+        "indicativo": "+255",
+        "Capital": "Dodoma",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tz.png"
+      },
+      {
+        "Nome": "Togo",
+        "Sigla": "TG",
+        "indicativo": "+228",
+        "Capital": "Lomé",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tg.png"
+      },
+      {
+        "Nome": "Tunísia",
+        "Sigla": "TN",
+        "indicativo": "+216",
+        "Capital": "Túnis",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tn.png"
+      },
+      {
+        "Nome": "Uganda",
+        "Sigla": "UG",
+        "indicativo": "+256",
+        "Capital": "Kampala",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ug.png"
+      },
+      {
+        "Nome": "Zâmbia",
+        "Sigla": "ZM",
+        "indicativo": "+260",
+        "Capital": "Lusaka",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/zm.png"
+      },
+      {
+        "Nome": "Zimbábue",
+        "Sigla": "ZW",
+        "indicativo": "+263",
+        "Capital": "Harare",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/zw.png"
+      }
+    ]
+  },
+  "americas": {
+    "quantidade": 35,
+    "dimensao_km2": 42549000,
+    "populacao_total": 1000000000,
+    "densidade_demografica": 24,
+    "maior_pais": "Canadá",
+    "menor_pais": "São Cristóvão e Neves",
+    "idiomas_mais_falados": [
+      "Espanhol",
+      "Inglês",
+      "Português",
+      "Francês",
+      "Quechua",
+      "Guarani"
+    ],
+    "moedas_utilizadas": [
+      "Dólar americano",
+      "Dólar canadense",
+      "Peso mexicano",
+      "Real brasileiro",
+      "Peso argentino",
+      "Peso chileno",
+      "Peso colombiano",
+      "Bolívar venezuelano",
+      "Guarani paraguaio",
+      "Sol peruano",
+      "Dólar do Caribe Oriental",
+      "Dólar bahamense",
+      "Córdoba nicaraguense",
+      "Lempira hondurenho",
+      "Balboa panamenho"
+    ],
+    "paises": [
+      {
+        "Nome": "Antígua e Barbuda",
+        "Sigla": "AG",
+        "indicativo": "+1-268",
+        "Capital": "Saint John's",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ag.png"
+      },
+      {
+        "Nome": "Argentina",
+        "Sigla": "AR",
+        "indicativo": "+54",
+        "Capital": "Buenos Aires",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ar.png"
+      },
+      {
+        "Nome": "Bahamas",
+        "Sigla": "BS",
+        "indicativo": "+1-242",
+        "Capital": "Nassau",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bs.png"
+      },
+      {
+        "Nome": "Barbados",
+        "Sigla": "BB",
+        "indicativo": "+1-246",
+        "Capital": "Bridgetown",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bb.png"
+      },
+      {
+        "Nome": "Belize",
+        "Sigla": "BZ",
+        "indicativo": "+501",
+        "Capital": "Belmopan",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bz.png"
+      },
+      {
+        "Nome": "Bolívia",
+        "Sigla": "BO",
+        "indicativo": "+591",
+        "Capital": "La Paz",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bo.png"
+      },
+      {
+        "Nome": "Brasil",
+        "Sigla": "BR",
+        "indicativo": "+55",
+        "Capital": "Brasília",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/br.png"
+      },
+      {
+        "Nome": "Canadá",
+        "Sigla": "CA",
+        "indicativo": "+1",
+        "Capital": "Ottawa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ca.png"
+      },
+      {
+        "Nome": "Chile",
+        "Sigla": "CL",
+        "indicativo": "+56",
+        "Capital": "Santiago",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cl.png"
+      },
+      {
+        "Nome": "Colômbia",
+        "Sigla": "CO",
+        "indicativo": "+57",
+        "Capital": "Bogotá",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/co.png"
+      },
+      {
+        "Nome": "Costa Rica",
+        "Sigla": "CR",
+        "indicativo": "+506",
+        "Capital": "San José",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cr.png"
+      },
+      {
+        "Nome": "Cuba",
+        "Sigla": "CU",
+        "indicativo": "+53",
+        "Capital": "Havana",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cu.png"
+      },
+      {
+        "Nome": "Dominica",
+        "Sigla": "DM",
+        "indicativo": "+1-767",
+        "Capital": "Roseau",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/dm.png"
+      },
+      {
+        "Nome": "El Salvador",
+        "Sigla": "SV",
+        "indicativo": "+503",
+        "Capital": "San Salvador",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sv.png"
+      },
+      {
+        "Nome": "Equador",
+        "Sigla": "EC",
+        "indicativo": "+593",
+        "Capital": "Quito",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ec.png"
+      },
+      {
+        "Nome": "Estados Unidos",
+        "Sigla": "US",
+        "indicativo": "+1",
+        "Capital": "Washington, D.C.",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/us.png"
+      },
+      {
+        "Nome": "Granada",
+        "Sigla": "GD",
+        "indicativo": "+1-473",
+        "Capital": "St. George's",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gd.png"
+      },
+      {
+        "Nome": "Guatemala",
+        "Sigla": "GT",
+        "indicativo": "+502",
+        "Capital": "Cidade da Guatemala",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gt.png"
+      },
+      {
+        "Nome": "Guiana",
+        "Sigla": "GY",
+        "indicativo": "+592",
+        "Capital": "Georgetown",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gy.png"
+      },
+      {
+        "Nome": "Haiti",
+        "Sigla": "HT",
+        "indicativo": "+509",
+        "Capital": "Porto Príncipe",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ht.png"
+      },
+      {
+        "Nome": "Honduras",
+        "Sigla": "HN",
+        "indicativo": "+504",
+        "Capital": "Tegucigalpa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/hn.png"
+      },
+      {
+        "Nome": "Jamaica",
+        "Sigla": "JM",
+        "indicativo": "+1-876",
+        "Capital": "Kingston",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/jm.png"
+      },
+      {
+        "Nome": "México",
+        "Sigla": "MX",
+        "indicativo": "+52",
+        "Capital": "Cidade do México",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mx.png"
+      },
+      {
+        "Nome": "Nicarágua",
+        "Sigla": "NI",
+        "indicativo": "+505",
+        "Capital": "Manágua",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ni.png"
+      },
+      {
+        "Nome": "Panamá",
+        "Sigla": "PA",
+        "indicativo": "+507",
+        "Capital": "Cidade do Panamá",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pa.png"
+      },
+      {
+        "Nome": "Paraguai",
+        "Sigla": "PY",
+        "indicativo": "+595",
+        "Capital": "Assunção",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/py.png"
+      },
+      {
+        "Nome": "Peru",
+        "Sigla": "PE",
+        "indicativo": "+51",
+        "Capital": "Lima",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pe.png"
+      },
+      {
+        "Nome": "Porto Rico",
+        "Sigla": "PR",
+        "indicativo": "+1-787",
+        "Capital": "San Juan",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pr.png"
+      },
+      {
+        "Nome": "República Dominicana",
+        "Sigla": "DO",
+        "indicativo": "+1-809",
+        "Capital": "Santo Domingo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/do.png"
+      },
+      {
+        "Nome": "Santa Lúcia",
+        "Sigla": "LC",
+        "indicativo": "+1-758",
+        "Capital": "Castries",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lc.png"
+      },
+      {
+        "Nome": "São Cristóvão e Névis",
+        "Sigla": "KN",
+        "indicativo": "+1-869",
+        "Capital": "Basseterre",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kn.png"
+      },
+      {
+        "Nome": "São Vicente e Granadinas",
+        "Sigla": "VC",
+        "indicativo": "+1-784",
+        "Capital": "Kingstown",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/vc.png"
+      },
+      {
+        "Nome": "Suriname",
+        "Sigla": "SR",
+        "indicativo": "+597",
+        "Capital": "Paramaribo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sr.png"
+      },
+      {
+        "Nome": "Trinidad e Tobago",
+        "Sigla": "TT",
+        "indicativo": "+1-868",
+        "Capital": "Port of Spain",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tt.png"
+      },
+      {
+        "Nome": "Uruguai",
+        "Sigla": "UY",
+        "indicativo": "+598",
+        "Capital": "Montevidéu",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/uy.png"
+      },
+      {
+        "Nome": "Venezuela",
+        "Sigla": "VE",
+        "indicativo": "+58",
+        "Capital": "Caracas",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ve.png"
+      }
+    ]
+  },
+  "asia": {
+    "quantidade": 51,
+    "dimensao_km2": 44579000,
+    "populacao_total": 4641054775,
+    "densidade_demografica": 104,
+    "maior_pais": "Rússia (parte asiática)",
+    "menor_pais": "Maldivas",
+    "idiomas_mais_falados": [
+      "Chinês mandarim",
+      "Hindi",
+      "Árabe",
+      "Russo",
+      "Bengali",
+      "Japonês"
+    ],
+    "moedas_utilizadas": [
+      "Yuan chinês",
+      "Rúpia indiana",
+      "Rial iraniano",
+      "Rupia indonésia",
+      "Rúpia paquistanesa",
+      "Taka bengali",
+      "Yen japonês",
+      "Won sul-coreano",
+      "Ringgit malaio",
+      "Baht tailandês",
+      "Dinar iraquiano",
+      "Rial saudita",
+      "Dirham dos Emirados",
+      "Lira turca",
+      "Tugrik mongol",
+      "Manat azeri",
+      "Tenge cazaque"
+    ],
+    "paises": [
+      {
+        "Nome": "Afeganistão",
+        "Sigla": "AF",
+        "indicativo": "+93",
+        "Capital": "Cabul",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/af.png"
+      },
+      {
+        "Nome": "Arábia Saudita",
+        "Sigla": "SA",
+        "indicativo": "+966",
+        "Capital": "Riad",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sa.png"
+      },
+      {
+        "Nome": "Armênia",
+        "Sigla": "AM",
+        "indicativo": "+374",
+        "Capital": "Erevan",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/am.png"
+      },
+      {
+        "Nome": "Azerbaijão",
+        "Sigla": "AZ",
+        "indicativo": "+994",
+        "Capital": "Baku",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/az.png"
+      },
+      {
+        "Nome": "Bahrein",
+        "Sigla": "BH",
+        "indicativo": "+973",
+        "Capital": "Manama",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bh.png"
+      },
+      {
+        "Nome": "Bangladesh",
+        "Sigla": "BD",
+        "indicativo": "+880",
+        "Capital": "Daca",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bd.png"
+      },
+      {
+        "Nome": "Brunei",
+        "Sigla": "BN",
+        "indicativo": "+673",
+        "Capital": "Bandar Seri Begawan",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bn.png"
+      },
+      {
+        "Nome": "Butão",
+        "Sigla": "BT",
+        "indicativo": "+975",
+        "Capital": "Thimphu",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bt.png"
+      },
+      {
+        "Nome": "Camboja",
+        "Sigla": "KH",
+        "indicativo": "+855",
+        "Capital": "Phnom Penh",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kh.png"
+      },
+      {
+        "Nome": "Catar",
+        "Sigla": "QA",
+        "indicativo": "+974",
+        "Capital": "Doha",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/qa.png"
+      },
+      {
+        "Nome": "Cazaquistão",
+        "Sigla": "KZ",
+        "indicativo": "+7",
+        "Capital": "Nur-Sultan",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kz.png"
+      },
+      {
+        "Nome": "China",
+        "Sigla": "CN",
+        "indicativo": "+86",
+        "Capital": "Pequim",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cn.png"
+      },
+      {
+        "Nome": "Cingapura",
+        "Sigla": "SG",
+        "indicativo": "+65",
+        "Capital": "Cingapura",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sg.png"
+      },
+      {
+        "Nome": "Coreia do Norte",
+        "Sigla": "KP",
+        "indicativo": "+850",
+        "Capital": "Pyongyang",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kp.png"
+      },
+      {
+        "Nome": "Coreia do Sul",
+        "Sigla": "KR",
+        "indicativo": "+82",
+        "Capital": "Seul",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kr.png"
+      },
+      {
+        "Nome": "Emirados Árabes Unidos",
+        "Sigla": "AE",
+        "indicativo": "+971",
+        "Capital": "Abu Dhabi",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ae.png"
+      },
+      {
+        "Nome": "Filipinas",
+        "Sigla": "PH",
+        "indicativo": "+63",
+        "Capital": "Quezon City",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ph.png"
+      },
+      {
+        "Nome": "Geórgia",
+        "Sigla": "GE",
+        "indicativo": "+995",
+        "Capital": "Tbilisi",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ge.png"
+      },
+      {
+        "Nome": "Hong Kong",
+        "Sigla": "HK",
+        "indicativo": "+852",
+        "Capital": "Hong Kong",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/hk.png"
+      },
+      {
+        "Nome": "Índia",
+        "Sigla": "IN",
+        "indicativo": "+91",
+        "Capital": "Nova Délhi",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/in.png"
+      },
+      {
+        "Nome": "Indonésia",
+        "Sigla": "ID",
+        "indicativo": "+62",
+        "Capital": "Jacarta",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/id.png"
+      },
+      {
+        "Nome": "Irã",
+        "Sigla": "IR",
+        "indicativo": "+98",
+        "Capital": "Teerã",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ir.png"
+      },
+      {
+        "Nome": "Iraque",
+        "Sigla": "IQ",
+        "indicativo": "+964",
+        "Capital": "Bagdá",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/iq.png"
+      },
+      {
+        "Nome": "Israel",
+        "Sigla": "IL",
+        "indicativo": "+972",
+        "Capital": "Jerusalém",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/il.png"
+      },
+      {
+        "Nome": "Japão",
+        "Sigla": "JP",
+        "indicativo": "+81",
+        "Capital": "Tóquio",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/jp.png"
+      },
+      {
+        "Nome": "Jordânia",
+        "Sigla": "JO",
+        "indicativo": "+962",
+        "Capital": "Amã",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/jo.png"
+      },
+      {
+        "Nome": "Kuwait",
+        "Sigla": "KW",
+        "indicativo": "+965",
+        "Capital": "Cidade do Kuwait",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kw.png"
+      },
+      {
+        "Nome": "Laos",
+        "Sigla": "LA",
+        "indicativo": "+856",
+        "Capital": "Vientiane",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/la.png"
+      },
+      {
+        "Nome": "Líbano",
+        "Sigla": "LB",
+        "indicativo": "+961",
+        "Capital": "Beirute",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lb.png"
+      },
+      {
+        "Nome": "Macau",
+        "Sigla": "MO",
+        "indicativo": "+853",
+        "Capital": "Macau",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mo.png"
+      },
+      {
+        "Nome": "Malásia",
+        "Sigla": "MY",
+        "indicativo": "+60",
+        "Capital": "Kuala Lumpur",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/my.png"
+      },
+      {
+        "Nome": "Maldivas",
+        "Sigla": "MV",
+        "indicativo": "+960",
+        "Capital": "Malé",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mv.png"
+      },
+      {
+        "Nome": "Mongólia",
+        "Sigla": "MN",
+        "indicativo": "+976",
+        "Capital": "Ulan Bator",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mn.png"
+      },
+      {
+        "Nome": "Myanmar",
+        "Sigla": "MM",
+        "indicativo": "+95",
+        "Capital": "Naypyidaw",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mm.png"
+      },
+      {
+        "Nome": "Nepal",
+        "Sigla": "NP",
+        "indicativo": "+977",
+        "Capital": "Katmandu",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/np.png"
+      },
+      {
+        "Nome": "Omã",
+        "Sigla": "OM",
+        "indicativo": "+968",
+        "Capital": "Mascate",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/om.png"
+      },
+      {
+        "Nome": "Paquistão",
+        "Sigla": "PK",
+        "indicativo": "+92",
+        "Capital": "Islamabad",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pk.png"
+      },
+      {
+        "Nome": "Palestina",
+        "Sigla": "PS",
+        "indicativo": "+970",
+        "Capital": "Ramallah",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ps.png"
+      },
+      {
+        "Nome": "Quirguistão",
+        "Sigla": "KG",
+        "indicativo": "+996",
+        "Capital": "Bishkek",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/kg.png"
+      },
+      {
+        "Nome": "Síria",
+        "Sigla": "SY",
+        "indicativo": "+963",
+        "Capital": "Damasco",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sy.png"
+      },
+      {
+        "Nome": "Sri Lanka",
+        "Sigla": "LK",
+        "indicativo": "+94",
+        "Capital": "Sri Jayawardenepura Kotte",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lk.png"
+      },
+      {
+        "Nome": "Tadjiquistão",
+        "Sigla": "TJ",
+        "indicativo": "+992",
+        "Capital": "Dushanbe",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tj.png"
+      },
+      {
+        "Nome": "Tailândia",
+        "Sigla": "TH",
+        "indicativo": "+66",
+        "Capital": "Bangcoc",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/th.png"
+      },
+      {
+        "Nome": "Taiwan",
+        "Sigla": "TW",
+        "indicativo": "+886",
+        "Capital": "Taipei",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tw.png"
+      },
+      {
+        "Nome": "Timor-Leste",
+        "Sigla": "TL",
+        "indicativo": "+670",
+        "Capital": "Díli",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tl.png"
+      },
+      {
+        "Nome": "Turcomenistão",
+        "Sigla": "TM",
+        "indicativo": "+993",
+        "Capital": "Asgabate",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tm.png"
+      },
+      {
+        "Nome": "Turquia",
+        "Sigla": "TR",
+        "indicativo": "+90",
+        "Capital": "Ancara",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tr.png"
+      },
+      {
+        "Nome": "Uzbequistão",
+        "Sigla": "UZ",
+        "indicativo": "+998",
+        "Capital": "Tashkent",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/uz.png"
+      },
+      {
+        "Nome": "Vietnã",
+        "Sigla": "VN",
+        "indicativo": "+84",
+        "Capital": "Hanói",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/vn.png"
+      },
+      {
+        "Nome": "Iêmen",
+        "Sigla": "YE",
+        "indicativo": "+967",
+        "Capital": "Sanaa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ye.png"
+      }
+    ]
+  },
+  "oceania": {
+    "quantidade": 14,
+    "dimensao_km2": 8600000,
+    "populacao_total": 43000000,
+    "densidade_demografica": 5,
+    "maior_pais": "Austrália",
+    "menor_pais": "Nauru",
+    "idiomas_mais_falados": [
+      "Inglês",
+      "Maori",
+      "Tok pisin",
+      "Hiri motu",
+      "Francês"
+    ],
+    "moedas_utilizadas": [
+      "Dólar australiano",
+      "Dólar neozelandês",
+      "Franco CFP",
+      "Dólar fijiano",
+      "Kina papuásia",
+      "Dólar das Ilhas Salomão",
+      "Dólar tuvaluano",
+      "Pa'anga tonganês",
+      "Dólar de Kiribati",
+      "Dólar samoano"
+    ],
+    "paises": [
+      {
+        "Nome": "Austrália",
+        "Sigla": "AU",
+        "indicativo": "+61",
+        "Capital": "Camberra",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/au.png"
+      },
+      {
+        "Nome": "Fiji",
+        "Sigla": "FJ",
+        "indicativo": "+679",
+        "Capital": "Suva",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/fj.png"
+      },
+      {
+        "Nome": "Ilhas Marshall",
+        "Sigla": "MH",
+        "indicativo": "+692",
+        "Capital": "Majuro",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mh.png"
+      },
+      {
+        "Nome": "Ilhas Salomão",
+        "Sigla": "SB",
+        "indicativo": "+677",
+        "Capital": "Honiara",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sb.png"
+      },
+      {
+        "Nome": "Kiribati",
+        "Sigla": "KI",
+        "indicativo": "+686",
+        "Capital": "Tarawa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ki.png"
+      },
+      {
+        "Nome": "Micronésia",
+        "Sigla": "FM",
+        "indicativo": "+691",
+        "Capital": "Palikir",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/fm.png"
+      },
+      {
+        "Nome": "Nauru",
+        "Sigla": "NR",
+        "indicativo": "+674",
+        "Capital": "Yaren",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/nr.png"
+      },
+      {
+        "Nome": "Nova Zelândia",
+        "Sigla": "NZ",
+        "indicativo": "+64",
+        "Capital": "Wellington",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/nz.png"
+      },
+      {
+        "Nome": "Palau",
+        "Sigla": "PW",
+        "indicativo": "+680",
+        "Capital": "Ngerulmud",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pw.png"
+      },
+      {
+        "Nome": "Papua-Nova Guiné",
+        "Sigla": "PG",
+        "indicativo": "+675",
+        "Capital": "Port Moresby",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pg.png"
+      },
+      {
+        "Nome": "Samoa",
+        "Sigla": "WS",
+        "indicativo": "+685",
+        "Capital": "Apia",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ws.png"
+      },
+      {
+        "Nome": "Tonga",
+        "Sigla": "TO",
+        "indicativo": "+676",
+        "Capital": "Nuku'alofa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/to.png"
+      },
+      {
+        "Nome": "Tuvalu",
+        "Sigla": "TV",
+        "indicativo": "+688",
+        "Capital": "Funafuti",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/tv.png"
+      },
+      {
+        "Nome": "Vanuatu",
+        "Sigla": "VU",
+        "indicativo": "+678",
+        "Capital": "Port Vila",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/vu.png"
+      }
+    ]
+  },
+  "europa": {
+    "quantidade": 44,
+    "dimensao_km2": 10180000,
+    "populacao_total": 747636026,
+    "densidade_demografica": 73,
+    "maior_pais": "Rússia (parte europeia)",
+    "menor_pais": "Vaticano",
+    "idiomas_mais_falados": [
+      "Inglês",
+      "Francês",
+      "Alemão",
+      "Italiano",
+      "Espanhol",
+      "Russo"
+    ],
+    "moedas_utilizadas": [
+      "Euro",
+      "Libra esterlina",
+      "Franco suíço",
+      "Coroa dinamarquesa",
+      "Złoty polonês",
+      "Lev búlgaro",
+      "Kuna croata",
+      "Coroa sueca",
+      "Coroa norueguesa",
+      "Rublo russo",
+      "Leu romeno",
+      "Forint húngaro",
+      "Dinar sérvio",
+      "Lira turca (parte europeia)"
+    ],
+    "paises": [
+      {
+        "Nome": "Albânia",
+        "Sigla": "AL",
+        "indicativo": "+355",
+        "Capital": "Tirana",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/al.png"
+      },
+      {
+        "Nome": "Alemanha",
+        "Sigla": "DE",
+        "indicativo": "+49",
+        "Capital": "Berlim",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/de.png"
+      },
+      {
+        "Nome": "Andorra",
+        "Sigla": "AD",
+        "indicativo": "+376",
+        "Capital": "Andorra la Vella",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ad.png"
+      },
+      {
+        "Nome": "Áustria",
+        "Sigla": "AT",
+        "indicativo": "+43",
+        "Capital": "Viena",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/at.png"
+      },
+      {
+        "Nome": "Bélgica",
+        "Sigla": "BE",
+        "indicativo": "+32",
+        "Capital": "Bruxelas",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/be.png"
+      },
+      {
+        "Nome": "Bielorrússia",
+        "Sigla": "BY",
+        "indicativo": "+375",
+        "Capital": "Minsk",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/by.png"
+      },
+      {
+        "Nome": "Bósnia e Herzegovina",
+        "Sigla": "BA",
+        "indicativo": "+387",
+        "Capital": "Sarajevo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ba.png"
+      },
+      {
+        "Nome": "Bulgária",
+        "Sigla": "BG",
+        "indicativo": "+359",
+        "Capital": "Sófia",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/bg.png"
+      },
+      {
+        "Nome": "Chipre",
+        "Sigla": "CY",
+        "indicativo": "+357",
+        "Capital": "Nicósia",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cy.png"
+      },
+      {
+        "Nome": "Croácia",
+        "Sigla": "HR",
+        "indicativo": "+385",
+        "Capital": "Zagreb",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/hr.png"
+      },
+      {
+        "Nome": "Dinamarca",
+        "Sigla": "DK",
+        "indicativo": "+45",
+        "Capital": "Copenhague",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/dk.png"
+      },
+      {
+        "Nome": "Eslováquia",
+        "Sigla": "SK",
+        "indicativo": "+421",
+        "Capital": "Bratislava",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sk.png"
+      },
+      {
+        "Nome": "Eslovênia",
+        "Sigla": "SI",
+        "indicativo": "+386",
+        "Capital": "Liubliana",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/si.png"
+      },
+      {
+        "Nome": "Espanha",
+        "Sigla": "ES",
+        "indicativo": "+34",
+        "Capital": "Madri",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/es.png"
+      },
+      {
+        "Nome": "Estônia",
+        "Sigla": "EE",
+        "indicativo": "+372",
+        "Capital": "Tallinn",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ee.png"
+      },
+      {
+        "Nome": "Finlândia",
+        "Sigla": "FI",
+        "indicativo": "+358",
+        "Capital": "Helsinque",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/fi.png"
+      },
+      {
+        "Nome": "França",
+        "Sigla": "FR",
+        "indicativo": "+33",
+        "Capital": "Paris",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/fr.png"
+      },
+      {
+        "Nome": "Grécia",
+        "Sigla": "GR",
+        "indicativo": "+30",
+        "Capital": "Atenas",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gr.png"
+      },
+      {
+        "Nome": "Hungria",
+        "Sigla": "HU",
+        "indicativo": "+36",
+        "Capital": "Budapeste",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/hu.png"
+      },
+      {
+        "Nome": "Irlanda",
+        "Sigla": "IE",
+        "indicativo": "+353",
+        "Capital": "Dublin",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ie.png"
+      },
+      {
+        "Nome": "Islândia",
+        "Sigla": "IS",
+        "indicativo": "+354",
+        "Capital": "Reykjavik",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/is.png"
+      },
+      {
+        "Nome": "Itália",
+        "Sigla": "IT",
+        "indicativo": "+39",
+        "Capital": "Roma",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/it.png"
+      },
+      {
+        "Nome": "Letônia",
+        "Sigla": "LV",
+        "indicativo": "+371",
+        "Capital": "Riga",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lv.png"
+      },
+      {
+        "Nome": "Liechtenstein",
+        "Sigla": "LI",
+        "indicativo": "+423",
+        "Capital": "Vaduz",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/li.png"
+      },
+      {
+        "Nome": "Lituânia",
+        "Sigla": "LT",
+        "indicativo": "+370",
+        "Capital": "Vilnius",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lt.png"
+      },
+      {
+        "Nome": "Luxemburgo",
+        "Sigla": "LU",
+        "indicativo": "+352",
+        "Capital": "Luxemburgo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/lu.png"
+      },
+      {
+        "Nome": "Macedônia do Norte",
+        "Sigla": "MK",
+        "indicativo": "+389",
+        "Capital": "Skopje",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mk.png"
+      },
+      {
+        "Nome": "Malta",
+        "Sigla": "MT",
+        "indicativo": "+356",
+        "Capital": "Valletta",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mt.png"
+      },
+      {
+        "Nome": "Moldávia",
+        "Sigla": "MD",
+        "indicativo": "+373",
+        "Capital": "Chisinau",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/md.png"
+      },
+      {
+        "Nome": "Mônaco",
+        "Sigla": "MC",
+        "indicativo": "+377",
+        "Capital": "Mônaco",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/mc.png"
+      },
+      {
+        "Nome": "Montenegro",
+        "Sigla": "ME",
+        "indicativo": "+382",
+        "Capital": "Podgorica",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/me.png"
+      },
+      {
+        "Nome": "Noruega",
+        "Sigla": "NO",
+        "indicativo": "+47",
+        "Capital": "Oslo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/no.png"
+      },
+      {
+        "Nome": "Países Baixos",
+        "Sigla": "NL",
+        "indicativo": "+31",
+        "Capital": "Amsterdã",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/nl.png"
+      },
+      {
+        "Nome": "Polônia",
+        "Sigla": "PL",
+        "indicativo": "+48",
+        "Capital": "Varsóvia",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pl.png"
+      },
+      {
+        "Nome": "Portugal",
+        "Sigla": "PT",
+        "indicativo": "+351",
+        "Capital": "Lisboa",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/pt.png"
+      },
+      {
+        "Nome": "Reino Unido",
+        "Sigla": "GB",
+        "indicativo": "+44",
+        "Capital": "Londres",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/gb.png"
+      },
+      {
+        "Nome": "República Tcheca",
+        "Sigla": "CZ",
+        "indicativo": "+420",
+        "Capital": "Praga",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/cz.png"
+      },
+      {
+        "Nome": "Romênia",
+        "Sigla": "RO",
+        "indicativo": "+40",
+        "Capital": "Bucareste",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ro.png"
+      },
+      {
+        "Nome": "Rússia",
+        "Sigla": "RU",
+        "indicativo": "+7",
+        "Capital": "Moscou",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ru.png"
+      },
+      {
+        "Nome": "San Marino",
+        "Sigla": "SM",
+        "indicativo": "+378",
+        "Capital": "San Marino",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/sm.png"
+      },
+      {
+        "Nome": "Sérvia",
+        "Sigla": "RS",
+        "indicativo": "+381",
+        "Capital": "Belgrado",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/rs.png"
+      },
+      {
+        "Nome": "Suécia",
+        "Sigla": "SE",
+        "indicativo": "+46",
+        "Capital": "Estocolmo",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/se.png"
+      },
+      {
+        "Nome": "Suíça",
+        "Sigla": "CH",
+        "indicativo": "+41",
+        "Capital": "Berna",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ch.png"
+      },
+      {
+        "Nome": "Ucrânia",
+        "Sigla": "UA",
+        "indicativo": "+380",
+        "Capital": "Kiev",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/ua.png"
+      },
+      {
+        "Nome": "Vaticano",
+        "Sigla": "VA",
+        "indicativo": "+39",
+        "Capital": "Cidade do Vaticano",
+        "bandeira_url": "https://flagpedia.net/data/flags/h80/va.png"
+      }
+    ]
+  }
+}

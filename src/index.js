@@ -16,6 +16,8 @@ const angolaService = async () => {
     const bancos = await loadJson(join(__dirname, '../data/bancos.json'));
     const times = await loadJson(join(__dirname, '../data/times.json'));
     const hospitais = await loadJson(join(__dirname, '../data/hospitais.json'));
+    const continente = await loadJson(join(__dirname, '../data/paises-code.json'));
+
 
     return {
         provincias: provincias.provincias,
@@ -23,7 +25,14 @@ const angolaService = async () => {
         bancos: bancos.bancos,
         times: times.times,
         hospitais: hospitais.hospitais,
+        continentes: continente,
+        africa: continente.africa,
+        america: continente.americas,
+        asia: continente.asia,
+        europa: continente.europa,
+        oceania: continente.oceania,
         formatarKwanza: (valor) => formatarKwanza(valor),
+
 
     };
 };

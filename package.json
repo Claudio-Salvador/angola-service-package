@@ -5,7 +5,10 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js",
+    "release:patch": "npm version patch && npm publish",
+    "release:minor": "npm version minor && npm publish",
+    "release:major": "npm version major && npm publish"
   },
   "keywords": [
     "angola",
@@ -13,7 +16,9 @@
     "data",
     "angola-province",
     "angola-banks",
-    "angola-times"
+    "angola-times",
+    "world-contries",
+    "conntry-Capital"
   ],
   "author": "Cláudio Fernando",
   "license": "MIT",
