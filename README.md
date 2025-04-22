@@ -250,7 +250,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ### SEE ALL CONTRIBUTORS
 
-<a href="https://github.com/Claudio-Salvador"><img src="https://github.com/Claudio-Salvador.png" alt="Novo Usuário" style="border-radius: 50%; width: 80px; height: 80px;"></a><a href="https://github.com/FranciiscoCampos170"><img src="https://github.com/FranciiscoCampos170.png" alt="Novo Usuário" style="border-radius: 50%; width: 70px; height: 70px;"></a>
+😊 <a href="https://github.com/Claudio-Salvador">Cláudio Fernando</a>
+😁 <a href="https://github.com/FranciiscoCampos170">Francisco Campos</a>
 
 ## License
 MIT
