@@ -13,6 +13,7 @@ A comprehensive package containing essential data about various services and inf
 - **Hospitals**: Healthcare facilities across the country
 - **Currency Formatter**: Utility to format values in Kwanza (AOA)
 - **Countries**: list of countries with details about , continent,capital ,region, subregion, languages, etc.
+- **Holidays**: List of Angolan national holidays (fixed and movable) and utility to check if a date is a holiday
 
 ## Installation
 
@@ -114,6 +115,19 @@ console.log(africa);
 const AfricaContries = africa.filter(item => item.paises.Nome === 'angola');
 
 ```
+### Holidays
+```
+const { feriados, verificarFeriado } = await angolaService();
+
+// Get all holidays for a specific year
+console.log(feriados(2023));
+
+// Check if a date is a holiday
+console.log(verificarFeriado('2023-01-01')); // true (Ano Novo)
+console.log(verificarFeriado('2023-01-02')); // false
+
+```
+
 
 # Data Structure
 ## Provinces (provincias.json)
@@ -199,7 +213,13 @@ const AfricaContries = africa.filter(item => item.paises.Nome === 'angola');
 }
 ```
 	
-
+## Holidays 
+```
+{
+  nome: String,
+  data: String // Format: YYYY-MM-DD
+}
+```
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.

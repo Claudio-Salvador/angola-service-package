@@ -91,6 +91,21 @@ describe('Angola Service Package', () => {
     });
   });
 
+  describe('feriados', () => {
+    test('should return array of holidays', () => {
+      expect(Array.isArray(data.feriados(2023))).toBe(true);
+      expect(data.feriados(2023).length).toBeGreaterThan(0);
+    });
+
+    test('should have correct holiday structure', () => {
+      const holiday = data.feriados(2023)[0];
+      expect(holiday).toHaveProperty('nome');
+      expect(holiday).toHaveProperty('data');
+    });
+
+  })
+
+
   describe('PaisesDoMundo', () => {
     test('should have correct continente structure', () => {
       expect(typeof data.continentes).toBe('object');
