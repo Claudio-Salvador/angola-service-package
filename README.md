@@ -14,6 +14,7 @@ A comprehensive package containing essential data about various services and inf
 - **Currency Formatter**: Utility to format values in Kwanza (AOA)
 - **Countries**: list of countries with details about , continent,capital ,region, subregion, languages, etc.
 - **Holidays**: List of Angolan national holidays (fixed and movable) and utility to check if a date is a holiday
+- **Validate IBAN**: Utility to validate IBAN numbers
 
 ## Installation
 
@@ -128,6 +129,29 @@ console.log(verificarFeriado('2023-01-02')); // false
 
 ```
 
+### Validate IBAN
+```
+const { validarIBANAngolano } = await angolaService();
+
+// Validate IBAN
+const ibanTeste = "AO06000600009555963930175";
+const resultado = validarIBANAngolano(ibanTeste);
+console.log(resultado); 
+// Resultado:
+//{
+   //valido: true,
+   //ibanFormatado: 'AO06 0006 0000 9555 9639 3017 5',
+   //banco: 'Banco de Fomento Angola (BFA)',
+   //codigoBanco: '0006'
+}//
+
+
+```
+
+
+
+
+
 
 # Data Structure
 ## Provinces (provincias.json)
@@ -223,6 +247,10 @@ console.log(verificarFeriado('2023-01-02')); // false
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+### SEE ALL CONTRIBUTORS
+
+<a href="https://github.com/Claudio-Salvador"><img src="https://github.com/Claudio-Salvador.png" alt="Novo Usuário" style="border-radius: 50%; width: 80px; height: 80px;"></a><a href="https://github.com/FranciiscoCampos170"><img src="https://github.com/FranciiscoCampos170.png" alt="Novo Usuário" style="border-radius: 50%; width: 70px; height: 70px;"></a>
 
 ## License
 MIT

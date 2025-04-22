@@ -37,13 +37,13 @@ export function validarIBANAngolano(iban) {
     if (!/^AO\d{23}$/.test(iban)) {
         return { valido: false, erro: "Formato inválido. O IBAN angolano deve ter 25 caracteres no formato AOkkXXXXXXXXXXXXXXX." };
     }
-    
+
     const codigoPais = iban.substring(0, 2);
     const digitosControle = iban.substring(2, 4);
     const numeroConta = iban.substring(4);
-    
+
     const ibanRearranjado = numeroConta + codigoPais + digitosControle;
-    
+
     let ibanNumerico = '';
     for (const char of ibanRearranjado) {
         if (/[A-Z]/.test(char)) {
@@ -53,20 +53,20 @@ export function validarIBANAngolano(iban) {
             ibanNumerico += char;
         }
     }
-    
+
     let resto = 0;
     for (let i = 0; i < ibanNumerico.length; i++) {
         resto = (resto * 10 + parseInt(ibanNumerico[i], 10)) % 97;
     }
-    
+
     const valido = resto === 1;
-    
+
     let banco = null;
     if (valido) {
         const codigoBanco = numeroConta.substring(0, 4);
         banco = BANCOS_ANGOLA[codigoBanco] || 'Banco desconhecido';
     }
-    
+
     return {
         valido: valido,
         ibanFormatado: formatarIBAN(iban),
