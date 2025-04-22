@@ -200,6 +200,60 @@ describe('Angola Service Package', () => {
 
     });
 
+    describe('Angolan IBAN Validation', () => {
+      describe('validateIBAN', () => {
+        test('should return an object with the correct structure', () => {
+          const result = data.validateIBAN('AO06004000009085976410139');
+          expect(result).toHaveProperty('valid');
+          expect(result).toHaveProperty('formattedIBAN');
+          expect(result).toHaveProperty('bank');
+          expect(result).toHaveProperty('bankCode');
+        });
+    
+        test('should correctly validate a BAI bank IBAN', () => {
+          const baiIBAN = 'AO06004000009085976410139';
+          const result = data.validateIBAN(baiIBAN);
+          
+          expect(result.valid).toBe(true);
+          expect(result.bank).toBe('Banco Angolano de Investimentos (BAI)');
+          expect(result.bankCode).toBe('0002');
+          expect(result.formattedIBAN).toBe('AO06 0040 0000 9085 9764 1013 9');
+        });
+    
+        test('should correctly validate a BFA bank IBAN', () => {
+          const bfaIBAN = 'AO06005500000000000002344';
+          const result = data.validateIBAN(bfaIBAN);
+          
+          expect(result.valid).toBe(true);
+          expect(result.bank).toBe('Banco de Fomento Angola (BFA)');
+          expect(result.bankCode).toBe('0004');
+        });
+    
+        test('should identify invalid IBAN', () => {
+          const invalidIBAN = 'AO06123456789012345678901';
+          const result = data.validateIBAN(invalidIBAN);
+          
+          expect(result.valid).toBe(false);
+          expect(result).toHaveProperty('error');
+        });
+    
+        test('should reject incorrect format', () => {
+          const wrongFormatIBAN = 'AO123456789';
+          const result = data.validateIBAN(wrongFormatIBAN);
+          
+          expect(result.valid).toBe(false);
+          expect(result.error).toContain('Invalid format');
+        });
+    
+        test('should format IBAN correctly', () => {
+          const unformattedIBAN = 'AO06004000009085976410139';
+          const result = data.validateIBAN(unformattedIBAN);
+          
+          expect(result.formattedIBAN).toBe('AO06 0040 0000 9085 9764 1013 9');
+        });
+      });
+    });
+
 
   });
 

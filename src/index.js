@@ -3,6 +3,7 @@ import { fileURLToPath } from 'url';
 import { dirname, join } from 'path';
 import formatarKwanza from '../util/formatcoin.js';
 import { feriados, verificarFeriado } from "../util/holiday.js";
+import {validarIBANAngolano} from '../util/validaiban.js';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -35,6 +36,7 @@ const angolaService = async () => {
         formatarKwanza: (valor) => formatarKwanza(valor),
         feriados: (ano) => feriados(ano),
         verificarFeriado: (data) => verificarFeriado(data),
+        validarIBANAngolano: (iban) => validarIBANAngolano(iban)
     };
 };
 
